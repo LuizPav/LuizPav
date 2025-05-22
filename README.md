@@ -1,7 +1,7 @@
 ### Olá eu sou Luiz Pavão
 
 ``
-Eu estou, atualmente, cursando TADS(Tecnólogo em análise e desenvolvimento de sistemas), onde faço parte de um projeto de iniciação científica, SynesthesiaVision, onde trabalho com React Native, NestJS e PostgresSQL. 
+Eu estou, atualmente, cursando TADS(Tecnólogo em análise e desenvolvimento de sistemas) no IFPE campus Recife, onde faço parte de um projeto de iniciação científica, SynesthesiaVision, em que trabalho com React Native, NestJS e PostgresSQL na produção de uma aplicação mobile com o intuito de auxiliar a locomoção de deficientes visuais. 
 ``
 ### Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizpavao/)
