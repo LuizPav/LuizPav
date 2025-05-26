@@ -11,7 +11,7 @@ Eu estou, atualmente, cursando TADS(Tecnólogo em análise e desenvolvimento de 
 ![luizpav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizpav&theme=midnight-purple&hide_border=true)
 ![LuizPav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPav&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
   
-### Tecnologias utilizadas
+### Tecnologias
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
