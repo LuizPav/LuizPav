@@ -70,7 +70,7 @@ My contributions include:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div display="flex" align="center">
 
 ![GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api?username=LuizPav&show_icons=true&theme=dark&border_color=E65100&icon_color=FFB74D&title_color=FFB74D&include_all_commits=true&count_private=true)
 
