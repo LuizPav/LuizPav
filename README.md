@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Luiz Pavão! 👋
+# Hey there, I'm Luiz Henrique! 👋
 
 ### Full Stack Developer
 
@@ -32,6 +32,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Front-end & Mobile
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -42,8 +44,27 @@
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### SynesthesiaVision
+<img src="https://raw.githubusercontent.com/LuizPav/LuizPav/main/assets/logo.png" width="120" align="right"/>
+
+I am part of the development team of **SynesthesiaVision**, a project aimed at assisting visually impaired people with mobility through a sensory device that detects objects above the waist line, complementing the use of a white cane.
+
+My contributions include:
+
+- 📱 **Mobile App** — Developed an Android application in **React Native + Expo** that connects to the sensory device via **Bluetooth (BLE)**, adding extra features such as real-time public transport information, weather conditions, and local luminosity data. The app consumes a custom API built with **NestJS**.
+
+- 🌐 **Project Website** — Built the official project website using **React + Vite**, presenting relevant news and information about SynesthesiaVision. The backend was developed with **Django REST Framework**, enabling a CRUD system for page management accessible only to authorized administrators.
 
 ---
 
