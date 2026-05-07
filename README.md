@@ -72,9 +72,9 @@ My contributions include:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizPav&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=E65100&icon_color=FFB74D&title_color=FFB74D&hide_border=false"/>
+<img height="180em" src="https://readme-stats-fork-mauve.vercel.app/api?username=LuizPav&show_icons=true&theme=dark&border_color=E65100&icon_color=FFB74D&title_color=FFB74D&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPav&layout=compact&langs_count=8&theme=dark&border_color=E65100&title_color=FFB74D"/>
+<img height="180em" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=LuizPav&layout=compact&langs_count=8&theme=dark&border_color=E65100&title_color=FFB74D"/>
 
 </div>
 
