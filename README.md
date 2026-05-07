@@ -70,13 +70,9 @@ My contributions include:
 
 ## 📊 GitHub Stats
 
-<div display="flex" align="center">
-
-![GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api?username=LuizPav&show_icons=true&theme=dark&border_color=E65100&icon_color=FFB74D&title_color=FFB74D&include_all_commits=true&count_private=true)
-
-![Top Langs](https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=LuizPav&layout=compact&langs_count=8&theme=dark&border_color=E65100&title_color=FFB74D)
-
-</div>
+| | |
+|---|---|
+| ![GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api?username=LuizPav&show_icons=true&theme=dark&border_color=E65100&icon_color=FFB74D&title_color=FFB74D&include_all_commits=true&count_private=true) | ![Top Langs](https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=LuizPav&layout=compact&langs_count=8&theme=dark&border_color=E65100&title_color=FFB74D) |
 
 <div align="center">
 
