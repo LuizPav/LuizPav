@@ -56,7 +56,7 @@
 ## 💼 Experience
 
 ### SynesthesiaVision
-<img src="https://raw.githubusercontent.com/LuizPav/LuizPav/main/assets/logo.png" width="120" align="right"/>
+<img src="https://github.com/LuizPav/LuizPav/blob/main/logo.png" width="120" align="right"/>
 
 I am part of the development team of **SynesthesiaVision**, a project aimed at assisting visually impaired people with mobility through a sensory device that detects objects above the waist line, complementing the use of a white cane.
 
