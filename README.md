@@ -85,4 +85,4 @@ My contributions include:
 </div>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuizPav&theme=dark&border=E65100&ring=FFB74D&fire=E65100&currStreakLabel=FFB74D)](https://git.io/streak-stats)
